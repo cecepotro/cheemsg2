@@ -56,6 +56,7 @@
 
 
     <Button
+        android:id="@+id/btnReiniciar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/texto_reiniciar"/>
